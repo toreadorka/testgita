@@ -9,6 +9,7 @@
         System.out.println("Kliknij na przycisk zaloguj");
     }
  public void logowanie microsoft() {
+ public void logowanie facebook() {
         System.out.println("Podaj nazwę użytkownika");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
